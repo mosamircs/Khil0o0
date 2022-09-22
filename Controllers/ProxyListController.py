@@ -1,0 +1,2 @@
+class ProxyListController:
+    pass
