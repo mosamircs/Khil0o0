@@ -14,7 +14,7 @@ import styles from 'components/titlebar/scss/Titlebar.module.scss';
 
 /**
  * @namespace Titlebar
- * @description Title Component to use as an Electron customized titlebar.
+ * @description title Component to use as an Electron customized titlebar.
  * electron-window-title-text used in main.js to set opacity on/off focus.
  * electron-window-title-buttons used in main.js to set opacity on/off focus.
  */

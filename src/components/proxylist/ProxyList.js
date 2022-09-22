@@ -1,1 +1,1 @@
-alert("ProxyList");
+alert("proxylist");
